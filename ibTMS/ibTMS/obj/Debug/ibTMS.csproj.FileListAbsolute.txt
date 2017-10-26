@@ -1,0 +1,16 @@
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\ibTMS.exe.config
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\ibTMS.exe
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\ibTMS.pdb
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.Core.dll
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.DynamoDBv2.dll
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\MySql.Data.dll
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\Newtonsoft.Json.dll
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\TWSLib.dll
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.Core.pdb
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.Core.xml
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.DynamoDBv2.pdb
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\AWSSDK.DynamoDBv2.xml
+E:\github\ibTMS\ibTMS\ibTMS\bin\Debug\Newtonsoft.Json.xml
+E:\github\ibTMS\ibTMS\ibTMS\obj\Debug\ibTMS.csprojResolveAssemblyReference.cache
+E:\github\ibTMS\ibTMS\ibTMS\obj\Debug\ibTMS.exe
+E:\github\ibTMS\ibTMS\ibTMS\obj\Debug\ibTMS.pdb
